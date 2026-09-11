@@ -1,7 +1,10 @@
 *.db
 .DS_Store
-__pycache__/
+__pycache__
 *.pyc
+__pycache__/
+
+
 # *.sqlite
 # *.sqlite3
 # settings/*.json

@@ -1,4 +1,7 @@
 *.db
+.DS_Store
+__pycache__/
+*.pyc
 # *.sqlite
 # *.sqlite3
 # settings/*.json

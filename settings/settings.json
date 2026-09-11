@@ -1,0 +1,10 @@
+{
+    "file_config": {
+        "file_name": "",
+        "in_conf_name": "",
+        "file_path": ""
+    },
+    "db_path": {
+        "path": "components/db.db"
+    }
+}

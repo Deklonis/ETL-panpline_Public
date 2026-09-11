@@ -1,0 +1,6 @@
+pandas==3.0.1
+PyQt6==6.10.2
+pymorphy3==2.0.6
+pymorphy3-dicts-ru==2.4.417150.4580142
+rapidfuzz==3.14.3
+python-docx==1.2.0

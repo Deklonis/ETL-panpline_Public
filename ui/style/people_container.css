@@ -1,0 +1,27 @@
+#Form {
+    
+    border: 1px solid black;
+    border-radius: 6px;
+    background-color: rgb(249, 249, 249);
+}
+QLabel {
+    background-color: none;
+    border-bottom: 1px solid black;
+    color: rgb(45, 45, 45);
+    font-size: 10px;
+}
+QComboBox {
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+#Del_but {
+    border: 1px solid red;
+    background-color: rgba(red, green, blue, 0);
+    color: rgb(0, 0, 0);
+    height: 8px;
+    padding: 3px;
+}
+#Del_but:hover {
+    background-color: rgb(217, 48, 48);
+}

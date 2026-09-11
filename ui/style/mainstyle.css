@@ -1,0 +1,72 @@
+QWidget {
+    background-color: #F4F6F9;
+    font-family: "Segoe UI";
+    font-size: 13px;
+    color: #2E2E2E;
+}
+/* ===== Левая панель ===== */
+QListView {
+    background-color: #FFFFFF;
+    border: 1px solid #E3E6EA;
+    border-radius: 8px;
+    padding: 6px;
+}
+QListView::item {
+    padding: 8px;
+    border-radius: 6px;
+}
+QListView::item:selected {
+    background-color: #E7F0FF;
+    color: #1A3D7C;
+}
+QFrame {
+    background-color: #FFFFFF;
+    border: 1px solid #E3E6EA;
+    border-radius: 10px;
+}
+/* ===== Поля ввода ===== */
+QLineEdit {
+    background-color: #FFFFFF;
+    border: 1px solid #D6D9DE;
+    border-radius: 6px;
+    padding: 6px 10px;
+}
+QLineEdit:focus {
+    border: 1px solid #2F6FED;
+}
+/* ===== Кнопки ===== */
+QPushButton {
+    background-color: #2F6FED;
+    color: white;
+    border-radius: 6px;
+    padding: 8px 14px;
+}
+QPushButton:hover {
+    background-color: #2459C7;
+}
+QPushButton:pressed {
+    background-color: #1D47A1;
+}
+QPushButton#pushButton_2 {
+    background-color: #E4E7EB;
+    color: #2E2E2E;
+}
+QPushButton#pushButton_2:hover {
+    background-color: #D6D9DE;
+}
+QLabel {
+    background-color: #F4F6F9;
+    border: none;
+}
+
+QPushButton#pushButton_3 {
+    background-color: #E4E7EB;
+    color: #2E2E2E;
+    height: 10px;
+}
+QPushButton#pushButton_3:hover {
+    background-color: #cbced3;
+    color: #2E2E2E;
+    height: 10px;
+}
+
